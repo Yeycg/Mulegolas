@@ -1,0 +1,25 @@
+# Cliente MU (muy grande para GitHub)
+MUClient/
+*.zip
+
+# Docker volumes
+dbdata/
+
+# Archivos temporales
+*.tmp
+*.temp
+*.log
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Build outputs
+bin/
+obj/
